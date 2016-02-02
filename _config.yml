@@ -1,0 +1,29 @@
+name: MADS KRABBE FOTOGRAFI
+favicon: null
+layout_spectrum: 0.1713802085723728
+typography_spectrum: 0.5378924501128495
+title: MADS KRABBE FOTOGRAFI
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#F7EDF0'
+    - '#F4CBC6'
+    - '#F4AFAB'
+    - '#F4EEA9'
+    - '#F4F482'
+  brandStrength: 0.867401238065213
+  lightness: 0.17069773515686393
+  saturation: 0.1654707370325923
+  rhythmicContrast: 0.613459792919457
+purpose: []
